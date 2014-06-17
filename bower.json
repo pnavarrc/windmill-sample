@@ -23,6 +23,6 @@
   ],
   "dependencies": {
     "bootstrap": "~3.0.3",
-    "windmill": "https://github.com/pnavarrc/windmill.git#~0.2.0"
+    "windmill": "../windmill/#~0.3.3"
   }
 }
